@@ -1,3 +1,5 @@
+<img width="1548" height="898" alt="image" src="https://github.com/user-attachments/assets/b6c55899-7c94-4ae8-8519-6908f26d71a0" />
+
 Here's a professional and romantic-themed `README.md` for your **HeartMatch AI - Friendship Compatibility Predictor** Streamlit app:
 
 ---
